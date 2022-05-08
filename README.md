@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **atharva7199990@gmail.com**
 
-- ⚡ Fun fact **I Love to Visit New Places and go to the GYM very often.**
+- ⚡ Fun fact **I Love to Visit New Places and do Swimming.**
 
 ## 🚀 Languages and Tools:
 
