@@ -2,7 +2,7 @@
 **atharvaagrawal/atharvaagrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🔭 I’m currently working on **[EngineeringWala.com](https://github.com/atharvaagrawal/engineeringwala/)**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚡ Fun fact **I Love to Visit New Places and do Swimming.**
 -->
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
@@ -20,17 +21,13 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[EngineeringWala.com](https://github.com/atharvaagrawal/engineeringwala/)**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://atharvaagrawal.github.io)**
 
-- 📫 How to reach me **atharva7199990@gmail.com**
-
-- ⚡ Fun fact **I Love to Visit New Places and do Swimming.**
+- 📫 How to reach me **a.atharva.work@gmail.com**
 
 ## 🚀 Languages and Tools:
 
@@ -83,7 +80,7 @@ Here are some ideas to get you started:
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="#">
     <img src="https://komarev.com/ghpvc/?username=atharvaagrawal">
 </a>
 <a href="https://github.com/atharvaagrawal?tab=followers"><img src="https://img.shields.io/github/followers/atharvaagrawal?label=Followers&style=social" alt="GitHub Badge"></a>
